@@ -17,4 +17,4 @@ The clock operates in two modes:
 
 To switch between these modes, press the `RUN_SET` button.
 
-![Imgur](https://i.imgur.com/lNoIOCT.gif)
+![Imgur](https://i.imgur.com/ehtWI5B.gif)
